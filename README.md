@@ -3,6 +3,7 @@
 ### Hello 👋
 
 
-🇨🇳 China Chongqing・🕹Backend, FE, Python, Golang, PHP, Rust
+🇨🇳 China Chongqing  
+🕹Backend, FE, Python, Golang, PHP, Rust
 
 https://blog.sourcedev.cc
