@@ -1,0 +1,6 @@
+- uses: lowlighter/metrics@latest
+  with:
+    # ... other options
+    plugin_topics: yes
+    plugin_topics_sort: stars
+    plugin_topics_limit: 15
